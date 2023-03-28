@@ -1,4 +1,3 @@
-
 $subnetLenght = 24
 $param = @{
     "network" = "192.168.0."
